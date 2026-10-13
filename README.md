@@ -137,7 +137,7 @@ Paisa/
 ## 📞 Official Contacts & Verification
 
 - **Customer Support Phone:** `+91 8588808538` (Mon – Sun: 9:00 AM – 9:00 PM)
-- **Support Email:** `team@ekpaisa.in`
+- **Support Email:** `team@ekpaisa.co.in`
 - **Registered Office:** Kaushambi, Ghaziabad, Uttar Pradesh, India
 - **Partner Network:** 40+ RBI-regulated Scheduled Commercial Banks and NBFCs
 

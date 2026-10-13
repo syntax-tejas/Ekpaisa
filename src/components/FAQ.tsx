@@ -147,7 +147,7 @@ export const FAQ: React.FC = () => {
               </a>
 
               <a
-                href="mailto:team@ekpaisa.in"
+                href="mailto:team@ekpaisa.co.in"
                 className="flex items-center gap-3.5 p-4 rounded-2xl bg-white border border-[#28A866]/30 text-xs sm:text-sm font-bold text-[#172B21] hover:border-[#16834A] hover:shadow-md transition-all"
               >
                 <div className="w-10 h-10 rounded-xl bg-[#F0F8F2] flex items-center justify-center text-[#16834A] shrink-0">
@@ -155,7 +155,7 @@ export const FAQ: React.FC = () => {
                 </div>
                 <div>
                   <span className="text-[10px] text-[#65756B] block">Email Support</span>
-                  <span>team@ekpaisa.in</span>
+                  <span>team@ekpaisa.co.in</span>
                 </div>
               </a>
             </div>

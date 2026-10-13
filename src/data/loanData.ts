@@ -336,7 +336,7 @@ export const FOOTER_DATA = {
   tagline: 'Financial Freedom, Simplified. Your trusted partner for all financial needs.',
   customerCare: '+91 8588808538',
   workingHours: 'Mon-Sun: 9:00 AM - 9:00 PM',
-  email: 'team@ekpaisa.in',
+  email: 'team@ekpaisa.co.in',
   address: 'Kaushambi, Ghaziabad, Uttar Pradesh, India',
   copyright: '© 2026 EkPaisa Financial Services. All rights reserved.',
   disclaimer: 'EkPaisa is a digital financial marketplace connecting borrowers with RBI-regulated banks and NBFCs. EkPaisa does not directly lend money or charge upfront approval fees. Loan approval, interest rates, and loan disbursal are subject to the respective lender’s credit policies and verification.',
